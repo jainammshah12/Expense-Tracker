@@ -1,3 +1,6 @@
+# Expense Tracker Application 
+This application I created in React.js utilizing all essential concepts such as components, JSX, and state while learning React.js 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
