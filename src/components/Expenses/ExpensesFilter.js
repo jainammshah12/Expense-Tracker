@@ -5,7 +5,7 @@ import './ExpensesFilter.css';
 const ExpensesFilter = (props) => {
   //const [selectedOption, setSelectedOption] = useState('');
   const selectHandler = (event) => {
-    props.onFilterValue(event.target.value);
+    props.onChangeFilter(event.target.value);
     //setSelectedOption(selectedValue);
   };
 
